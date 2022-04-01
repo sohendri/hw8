@@ -1,10 +1,10 @@
-GCP link: https://my-project-345719.uc.r.appspot.com/
+GCP link: 
 
 ##### Table of Contents  
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Resource Name | Link          
+| ------------- |:-------------:|
+| col 3 is      | right-aligned |
+| col 2 is      | centered      |
+| zebra stripes | are neat      |
 
 # hw8
