@@ -1,10 +1,7 @@
-GCP link: 
+# hw8
 
 ##### Table of Contents  
 | Resource Name | Link          
 | ------------- |:-------------:|
-| col 3 is      | right-aligned |
-| col 2 is      | centered      |
-| zebra stripes | are neat      |
-
-# hw8
+| backend Server| https://my-project-345719.uc.r.appspot.com/ |
+| Frontend      | https://my-projectfe.uc.r.appspot.com/      |
